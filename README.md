@@ -1,6 +1,7 @@
 # AppliedEconometircsForMacroeconomics
 
 Scripts for the Appliead Econometrics for Macroeconometrics class:
+
 HW1:
 - Basic Matlab functions
 
